@@ -25,6 +25,7 @@ As an aspiring actuary with a passion for analytics, I developed this end-to-end
 ✅ Trains and compares **Logistic Regression**, **Random Forest**, and **XGBoost**  
 ✅ Evaluates models with classification metrics  
 ✅ Visualizes **feature importances** and **ROC curve**  
+![Feature Importance](images/feat_importance.png) ![ROC Curve](images/ROC.png)
 ✅ Saves the best model for future deployment using `.pkl`
 
 ---
