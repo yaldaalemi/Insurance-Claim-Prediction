@@ -27,6 +27,7 @@ As an aspiring actuary with a passion for analytics, I developed this end-to-end
 ✅ Visualizes **feature importances** and **ROC curve**  
 <img src="images/feat_importance.png" alt="Feature Importance" width="300"/> 
 <img src="images/ROC.png" alt="ROC Curve" width="300"/>
+
 ✅ Saves the best model for future deployment using `.pkl`
 
 ---
